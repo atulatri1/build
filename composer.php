@@ -1,2 +1,2 @@
-#!php
-echo "I am working"
+<?php
+echo "I am working";
