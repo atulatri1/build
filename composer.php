@@ -1,3 +1,3 @@
 #!php
 <?php
-echo "I am working";
+echo "I am working\n";
